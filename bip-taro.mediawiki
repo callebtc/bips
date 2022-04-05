@@ -859,6 +859,13 @@ TBD
 
 ==Acknowledgement==
 
+A lot of credit goes to Peter Todd for popularizing many of the ideas and
+techniques used in the design of Taro many years ago. Much of the design of the
+system was inspired by his earlier work on systems like proofchains.
+
+Thanks to Daniel Stadulis for reading very early versions of this draft, and
+shaping many components of the design during early design jam sessions.
+
 ==Reference Implementation==
 
 github.com/lightninglabs/taro
